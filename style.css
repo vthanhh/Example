@@ -1,0 +1,50 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.header {
+    height: 50px;
+}
+main {
+    height: 1000px;
+    width: 1000px;
+    margin-left: 400px;
+}
+.box {
+    float: left;
+}
+.info {
+    width: 300px;
+    height: 1000px;
+    background-color: rgb(74 74 67 / 25%);
+}
+img {
+    width: 150px;
+    margin: 20px 20px 10px 75px;
+    clip-path: circle(75px at 50% 50%);
+}
+.info_2 {
+    width: 700px;
+    height: 1000px;
+    background-color: rgb(191 191 183 / 25%);
+}
+.text {
+    padding: 5px 0 5px 10px;
+}
+p {
+    padding: 5px 2px 2px 5px;
+}
+.text > h4 {
+    padding-top: 40px;
+}
+h5 {
+    padding-top: 10px;
+    padding-left: 5px;
+}
+h3 {
+    padding: 75px 0px 10px 50px;
+}
+.info_2 > h4 {
+    padding-left: 50px;
+}
